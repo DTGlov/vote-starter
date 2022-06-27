@@ -13,7 +13,7 @@ Vue.createApp({
           id: '3a3',
           name: 'Patty',
           url: 'https://avatars.dicebear.com/api/miniavs/patty.svg',
-          post: 'I tried to sure the airport for misplacing my luggage. I lost my case.',
+          post: 'I tried to sue the airport for misplacing my luggage. I lost my case.',
           votes: 12,
         },
         {
